@@ -1,0 +1,38 @@
+@keyframes border-animation {
+    0% {
+        border-top-color: #34778b;
+        border-right-color: transparent;
+        border-bottom-color: transparent;
+        border-left-color: transparent;
+    }
+    25% {
+        border-top-color: #34778b;
+        border-right-color: #34778b;
+        border-bottom-color: transparent;
+        border-left-color: transparent;
+    }
+    50% {
+        border-top-color: #34778b;
+        border-right-color: #34778b;
+        border-bottom-color: #34778b;
+        border-left-color: transparent;
+    }
+    75% {
+        border-top-color: #34778b;
+        border-right-color: #34778b;
+        border-bottom-color: #34778b;
+        border-left-color: #34778b;
+    }
+    100% {
+        border-top-color: #34778b;
+        border-right-color: transparent;
+        border-bottom-color: transparent;
+        border-left-color: transparent;
+    }
+}
+
+.animate-border-animate {
+    border-width: 4px; 
+    border-style: solid;
+    animation: border-animation 4s linear infinite;
+}

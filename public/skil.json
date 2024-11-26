@@ -1,0 +1,70 @@
+[
+  {
+    "img": "https://i.postimg.cc/k4Vqwvg7/html.png",
+    "skill_name": "HTML5"
+  },
+  {
+    "img": "https://i.postimg.cc/1tN1DRvt/css.png",
+    "skill_name": "CSS3"
+  },
+  {
+    "img": "https://i.postimg.cc/8cR8nKQg/js.png",
+    "skill_name": "JavaScript"
+  },
+  {
+    "img": "https://i.postimg.cc/RZqsWssC/tailwind.png",
+    "skill_name": "tailwind css"
+  },
+  {
+    "img": "https://i.postimg.cc/7YtXr1xF/bosstrap.png",
+    "skill_name": "bootstrap"
+  },
+  {
+    "img": "https://i.postimg.cc/hGL9vVBP/react.png",
+    "skill_name": "react.js"
+  },
+  {
+    "img": "https://i.postimg.cc/44ShJW9Q/mui.png",
+    "skill_name": "materialUI"
+  },
+  {
+    "img": "https://i.postimg.cc/hvzvzqdb/ex.png",
+    "skill_name": "express.js"
+  },
+  {
+    "img": "https://i.postimg.cc/1zmz0FFz/node.png",
+    "skill_name": "node.js"
+  },
+  {
+    "img": "https://i.postimg.cc/h4d7t91F/db.png",
+    "skill_name": "mongodb"
+  },
+  {
+    "img": "https://i.postimg.cc/YSPhp94q/firebase.png",
+    "skill_name": "firebase"
+  },
+  {
+    "img": "https://i.postimg.cc/PrHNf0qZ/git.png",
+    "skill_name": "git"
+  },
+  {
+    "img": "https://i.postimg.cc/DZsynckB/github.png",
+    "skill_name": "github"
+  },
+  {
+    "img": "https://i.postimg.cc/Xqkjy7v5/figma.png",
+    "skill_name": "figma"
+  },
+  {
+    "img": "https://i.postimg.cc/85hDqPMY/npm.png",
+    "skill_name": "npm"
+  },
+  {
+    "img": "https://i.postimg.cc/4N4ZSGd8/strip.png",
+    "skill_name": "strip"
+  },
+  {
+    "img": "https://i.postimg.cc/7hKvkC6K/sslcommerz.png",
+    "skill_name": "sslcommerz"
+  }
+]
