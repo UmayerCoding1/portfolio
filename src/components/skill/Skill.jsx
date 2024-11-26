@@ -93,7 +93,8 @@ const Skill = () => {
               {skills?.map(skill => {
                 return([
                     <div key={skill.skill_name} className='w-full h-32 bg-white rounded-xl my-4 shadow-xl flex items-center justify-center  transition-all ease-linear duration-300 lg:hover:w-[calc(100%-10px)] lg:hover:h-[calc(100%-10px)]  relative lg:my-0 group'>
-                        <img className='w-16' src={skill.img} alt="" />
+                        {/* <img className='w-16' src={skill.img} alt="" /> */}
+                        <img className="w-16" src={skill.img} alt="" />
                         <span className='absolute text-xs top-[-25px] bg-[#1F2937] text-white p-1 rounded-sm opacity-0 transition-opacity duration-300 group-hover:opacity-100 uppercase'>{skill.skill_name}</span>
                         
                     </div>
